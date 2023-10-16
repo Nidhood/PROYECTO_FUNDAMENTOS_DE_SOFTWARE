@@ -1,0 +1,12 @@
+io\roach\data\jpa\entities\InformacionPago.class
+io\roach\data\jpa\entities\Tienda.class
+io\roach\data\jpa\controlleres\UsuarioController.class
+io\roach\data\jpa\entities\ingrediente.class
+io\roach\data\jpa\dao\UsuarioRepository.class
+io\roach\data\jpa\entities\Combo.class
+io\roach\data\jpa\JpaApplication.class
+io\roach\data\jpa\services\UsuarioService.class
+io\roach\data\jpa\entities\Foto.class
+io\roach\data\jpa\entities\Pedido.class
+io\roach\data\jpa\entities\Usuario.class
+io\roach\data\jpa\entities\Ubicacion.class
