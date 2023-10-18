@@ -1,0 +1,12 @@
+javeriana/pontireparte/proyect/entities/Ubicacion.class
+javeriana/pontireparte/proyect/entities/Pedido.class
+javeriana/pontireparte/proyect/PontireparteApplication.class
+javeriana/pontireparte/proyect/services/UsuarioService.class
+javeriana/pontireparte/proyect/entities/InformacionPago.class
+javeriana/pontireparte/proyect/controller/UsuarioController.class
+javeriana/pontireparte/proyect/entities/Tienda.class
+javeriana/pontireparte/proyect/entities/Foto.class
+javeriana/pontireparte/proyect/repositories/UsuarioRepository.class
+javeriana/pontireparte/proyect/entities/Combo.class
+javeriana/pontireparte/proyect/entities/ingrediente.class
+javeriana/pontireparte/proyect/entities/Usuario.class
